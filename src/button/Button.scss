@@ -1,0 +1,10 @@
+@import '~branding/colors.scss';
+.button {
+  min-width: 200px;
+  background-color: $dark-red;
+  color: $light-grey;
+  display: inline-block;
+  padding: 1%;
+  border-radius: 5px;
+  cursor: pointer;
+}
